@@ -1,0 +1,5 @@
+1|wash|clothes|4/14/2025|1|1
+2|clean|floor|6/15/2025|5|1
+3|cook|fish|5/16/2025|3|0
+4|dishes|wash and dry|2025-05-15|3|1
+5|learn c+=|learn c++ actually and kearn fast|2025-05-20|1|1

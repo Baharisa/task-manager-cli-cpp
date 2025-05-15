@@ -1,0 +1,21 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore tasks saved from the program
+tasks.txt
+
+# Ignore build files
+*.out
+*.obj
+*.o
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
